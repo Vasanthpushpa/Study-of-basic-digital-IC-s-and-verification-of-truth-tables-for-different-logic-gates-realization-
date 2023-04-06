@@ -85,7 +85,7 @@ RTL realization
 Output:
 ![image](https://user-images.githubusercontent.com/119291100/230292382-3b60443c-c0d1-453f-a9e8-eebab3fbbb3c.png)
 ![Screenshot_20230406_115447](https://user-images.githubusercontent.com/119291100/230289287-c527e868-499a-48de-8b60-056517ee7935.png)
-![Screenshot_20230406_104013](https://user-images.githubusercontent.com/119291100/230289337-8ea048a5-f8e8-40ac-8b33-59feed233563.png)
+![WhatsApp Image 2023-04-06 at 12 19 49 PM](https://user-images.githubusercontent.com/119291100/230294318-389f04e1-8ce5-4e42-9d34-d4f388bcb8f9.jpeg)
 
 
 Result:
